@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#background{
+    width: auto;
+    height: auto;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+}
+#contenedor{
+    margin-bottom: auto;
+    margin-top: 50%;
+    width: 400px;
+    height: 200px;
+    background-color: rgb(221, 214, 214);
+    margin: 0.5em auto;
+    padding: 0.5em auto;
+    border-radius: 2em;
+}
+article{
+    font-family: fantasy;
+    margin: 1em;
+    margin-right: auto;
+}
